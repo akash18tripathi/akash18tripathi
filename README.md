@@ -29,7 +29,7 @@
 
 <h3 align="left">My Leetcode stats:</h3>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Praddyumn?theme=dark&font=ABeeZee&ext=heatmap](https://leetcard.jacoblin.cool/akash18tripathi?theme=dark&font=Khand&ext=heatmap))
+![LeetCode Stats](https://leetcard.jacoblin.cool/akash18tripathi?theme=dark&font=Khand&ext=heatmap)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash18tripathi&show_icons=true&theme=dark&locale=en&layout=compact" alt="akash18tripathi" /></p>
 
