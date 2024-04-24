@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash18tripathi" alt="akash18tripathi" /></a> </p>
 
-- 🔭 I’m currently working on **Implementing Machine Learning Algorithms from Scratch for deeper understanding**
+- 🔭 I’m currently working with **Media.Net** as an SDE Intern.
 
-- 🌱 I’m currently learning **High Level Design and Low Level Design**
+- 🌱 I’m currently learning **High Level Design and Low Level Design** and **Implementing Machine Learning Algorithms from Scratch for deeper understanding**
 
 - 👯 I’m Constantly Improving on **Advance Data Structures and Algorithms**
 
